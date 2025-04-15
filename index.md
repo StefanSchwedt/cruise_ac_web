@@ -20,7 +20,7 @@ title: Leveraging Crowd Knowledge for Better User Stories
 
 <h2><a name="publication"></a><img src="assets/icons/book-2.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Publication</h2>
 
-This website provided additional information for the paper "From Bugs to Benefits: Improving User Stories by Leveraging Crowd Knowledge with CrUISE-AC".
+This website provides additional information for the paper "From Bugs to Benefits: Improving User Stories by Leveraging Crowd Knowledge with CrUISE-AC".
 The paper will be presented at the [47th International Conference on Software Engineering](https://conf.researchr.org/home/icse-2025) in Ottawa, Canada.
 
 A pre-print of the publication can be downloaded [here](https://arxiv.org/abs/2501.15181).
@@ -29,7 +29,7 @@ A pre-print of the publication can be downloaded [here](https://arxiv.org/abs/25
 
 <h2><a name="main-idea"></a><img src="assets/icons/bulb.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Main Idea</h2>
 
-Incomplete or ambiguous user stories are a common root of costly software defects. CrUISE-AC (Crowd and User Informed Suggestion Engine for Acceptance Criteria) uses AI and public issue trackers to automatically generate non-trivial **acceptance criteria** (AC) for user stories. The system analyzes crowdsourced bug reports and feature requests to uncover edge cases and implicit requirements, improving the quality of software specifications early in development.
+Incomplete or ambiguous user stories are a common cause of costly software defects. CrUISE-AC (Crowd and User Informed Suggestion Engine for Acceptance Criteria) uses AI and public issue trackers to automatically generate non-trivial **acceptance criteria** (AC) for user stories. The system analyzes crowdsourced bug reports and feature requests to uncover edge cases and implicit requirements, improving the quality of software specifications early in development.
 
 > Evaluations across e-commerce and CMS domains showed that **80–82%** of generated ACs were rated as useful by experts.
 
@@ -49,7 +49,7 @@ CrUISE-AC was evaluated using **real-world data** from these public issue tracke
 - [Moodle](https://github.com/moodle/moodle/issues)
 - [Umbraco](https://github.com/umbraco/Umbraco-CMS/issues)
 
-And over **300 real user stories** from industry projects in e-commerce and CMS domains.
+Additionally, over **300 real user stories** were collected from industry projects in e-commerce and CMS domains."
 
 User stories, issues and results are available for [download](https://zenodo.org/records/14709846).
 
@@ -71,7 +71,7 @@ thomas.stroeder@fhdw.de
 
 Are you working on agile development projects?
 
-We're inviting **industry partners** to collaborate in a **field study** to test and refine CrUISE-AC in real-world settings. Your team can benefit from automated insights while helping us validate and improve the tool in practice.
+We're inviting **industry partners** to collaborate in a **field study** to test and refine CrUISE-AC in real-world settings. Your team will benefit from automated insights while helping us validate and improve the tool in practice.
 
 **Let’s explore how CrUISE-AC can help your team reduce defects and enhance requirements quality.**
 
@@ -99,7 +99,7 @@ Use the form below to send us a user story. We’ll analyze it and reply with:
   <label for="userstory" style="font-weight: bold;">Your User Story:</label><br>
   <textarea id="userstory" name="userstory" placeholder="As a [role], ..." rows="4" required style="width: 100%; padding: 8px; margin: 8px 0;"></textarea><br>
 
-  <label for="acceptance_criteria" style="font-weight: bold;">Existing Acceptance Criteria (if any):</label><br>
+  <label for="acceptance_criteria" style="font-weight: bold;">Existing Acceptance Criteria (optional):</label><br>
   <textarea id="acceptance_criteria" name="acceptance_criteria" placeholder="Provide any existing acceptance criteria..." rows="4" style="width: 100%; padding: 8px; margin: 8px 0;"></textarea><br>
 
   <input type="submit" value="Submit" style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">
