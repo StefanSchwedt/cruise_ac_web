@@ -18,7 +18,7 @@ title: Leveraging Crowd Knowledge for Better User Stories
   <a href="#submit-story">Submit a User Story</a>
 </nav>
 
-<h2><a name="publication"></a><img src="/assets/icons/book-2.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Publication</h2>
+<h2><a name="publication"></a><img src="assets/icons/book-2.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Publication</h2>
 
 This website provided additional information for the paper "From Bugs to Benefits: Improving User Stories by Leveraging Crowd Knowledge with CrUISE-AC".
 The paper will be presented at the [47th International Conference on Software Engineering](https://conf.researchr.org/home/icse-2025) in Ottawa, Canada.
@@ -27,7 +27,7 @@ A pre-print of the publication can be downloaded [here](https://arxiv.org/abs/25
 
 ---
 
-<h2><a name="main-idea"></a><img src="/assets/icons/bulb.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Main Idea</h2>
+<h2><a name="main-idea"></a><img src="assets/icons/bulb.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Main Idea</h2>
 
 Incomplete or ambiguous user stories are a common root of costly software defects. CrUISE-AC (Crowd and User Informed Suggestion Engine for Acceptance Criteria) uses AI and public issue trackers to automatically generate non-trivial **acceptance criteria** (AC) for user stories. The system analyzes crowdsourced bug reports and feature requests to uncover edge cases and implicit requirements, improving the quality of software specifications early in development.
 
@@ -35,7 +35,7 @@ Incomplete or ambiguous user stories are a common root of costly software defect
 
 ---
 
-<h2><a name="datasets"></a><img src="/assets/icons/database.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Datasets Used</h2>
+<h2><a name="datasets"></a><img src="assets/icons/database.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Datasets Used</h2>
 
 CrUISE-AC was evaluated using **real-world data** from these public issue trackers:
 
@@ -55,7 +55,7 @@ User stories, issues and results are available for [download](https://zenodo.org
 
 ---
 
-<h2><a name="authors"></a><img src="/assets/icons/users.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Authors & Contact</h2>
+<h2><a name="authors"></a><img src="assets/icons/users.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Authors & Contact</h2>
 
 **Stefan Schwedt**  
 Heriot-Watt University, Edinburgh, Scotland  
@@ -67,7 +67,7 @@ thomas.stroeder@fhdw.de
 
 ---
 
-<h2><a name="industry"></a><img src="/assets/icons/speakerphone.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Call for Industry Participation</h2>
+<h2><a name="industry"></a><img src="assets/icons/speakerphone.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Call for Industry Participation</h2>
 
 Are you working on agile development projects?
 
@@ -79,7 +79,7 @@ We're inviting **industry partners** to collaborate in a **field study** to test
 
 ---
 
-<h2><a name="submit-story"></a><img src="/assets/icons/forms.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Test Us: Submit a User Story</h2>
+<h2><a name="submit-story"></a><img src="assets/icons/forms.svg" alt="idea icon" width="24" style="vertical-align:middle; margin-right: 8px; margin-top: -4px"> Test Us: Submit a User Story</h2>
 
 Use the form below to send us a user story. We’ll analyze it and reply with:
 
